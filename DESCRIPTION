@@ -1,0 +1,16 @@
+Package: templater
+Type: Package
+Title: An Example R Project Package
+Version: 0.1
+Date: 2019-10-17
+Authors: Jordan Schupbach
+Maintainer: Jordan Schupbach <jordans1882@gmail.com>
+Description: An example R project
+License: GPL (>= 2)
+Suggests: knitr, testthat
+Depends:
+Imports: Rcpp (>= 1.0.3)
+LinkingTo: Rcpp
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
+LazyData: true

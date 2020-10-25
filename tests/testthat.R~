@@ -1,0 +1,4 @@
+library("testthat")
+library("glandmaker")
+
+testthat::test_check("glandMaker", encoding = "UTF-8")

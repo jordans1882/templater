@@ -1,0 +1,6 @@
+#+TITLE: templater
+
+* The templater package
+
+The templater package is an example package showing off features and workflow
+for an R package.

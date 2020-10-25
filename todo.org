@@ -1,0 +1,47 @@
+#+TITLE: todo
+
+* Inbox
+** DONE Setup roxygen
+
+[[file:~/Templates/template_r/DESCRIPTION::Depends:]]
+** DONE Test Example Functions
+
+[[file:~/Templates/template_r/README.org::*The templater package][The templater package]]
+** DONE Write a Simple R function
+
+[[file:~/Templates/template_r/README.org::*The templater package][The templater package]]
+** DONE Write C Example Function
+
+[[file:~/Templates/template_r/README.org::*The templater package][The templater package]]
+** DONE Set-up testing framework
+
+[[file:~/Templates/template_r/README.org::*The templater package][The templater package]]
+** DONE Add Makefile
+
+[[file:~/Templates/template_r/README.org::*The templater package][The templater package]]
+** DONE Add DESCRIPTION file
+:LOGBOOK:
+CLOCK: [2019-10-19 Sat 21:46]--[2019-10-19 Sat 21:47] =>  0:01
+:END:
+
+[[file:~/Templates/template_r/README.org::*The templater package][The templater package]]
+** TODO Write coding style guide as vignette
+
+[[file:~/Templates/template_r/README.org::*The templater package][The templater package]]
+
+** TODO Write matrix multiplication vignette
+
+[[file:~/Templates/template_r/README.org::*The templater package][The templater package]]
+** TODO Write example Fortran function
+
+[[file:~/Templates/template_r/README.org::*The templater package][The templater package]]
+** TODO Write example rcpp function
+
+[[file:~/Templates/template_r/README.org::*The templater package][The templater package]]
+** TODO Write template rmd files
+
+[[file:~/Templates/template_r/README.org::*The templater package][The templater package]]
+
+** TODO Write template rnw files
+
+[[file:~/Templates/template_r/README.org::*The templater package][The templater package]]
